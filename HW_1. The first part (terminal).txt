@@ -81,11 +81,6 @@ date
 
 Задание *
 
-   1. Отправить http запрос на сервер. http://162.55.220.72:5005/terminal-hw-request
-
-curl http://162.55.220.72:5005/terminal-hw-request
-curl http://162.55.220.72:5005/get_method\?name\=\(\Tatiana\)\&age\=\(33\)
-
-    2. Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
+    1. Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
 
 mkdir -p dir_1 && cd dir_1 && mkdir folder_1 folder_2 folder_3 && cd folder_1 && touch bla_1.txt bla_2 bla_3 vbn_1.json vbn_2.json && mkdir qwe ewq weq && ll && mv *.json weq/
